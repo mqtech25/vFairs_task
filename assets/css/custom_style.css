@@ -219,6 +219,7 @@ body {
   opacity: 0 !important;
   position: absolute;
   top: 0;
+  width: 100%;
 }
 .wizard-card .picture-src {
   width: 50%;
