@@ -219,10 +219,11 @@ body {
   opacity: 0 !important;
   position: absolute;
   top: 0;
-  width: 100%;
+  width: 100px;
 }
 .wizard-card .picture-src {
-  width: 50%;
+  width: 150px;
+  height: 150px;
 }
 /* footer */
 .main__footer .nav .nav-link:hover {
